@@ -176,7 +176,7 @@ fields:
       type: text
       width: 1/2
    network1_password:
-      label: Network 1 Passwort
+      label: Network 1 Password
       type: text		
       width: 1/2
 
@@ -196,7 +196,7 @@ fields:
       type: text
       width: 1/2
    network2_password:
-      label: Network 2 Passwort
+      label: Network 2 Password
       type: text
       width: 1/2
 
@@ -216,6 +216,6 @@ fields:
       type: text
       width: 1/2
    network3_password:
-      label: Network 3 Passwort
+      label: Network 3 Password
       type: text
       width: 1/2
