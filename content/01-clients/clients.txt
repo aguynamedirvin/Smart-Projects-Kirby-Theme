@@ -1,5 +1,0 @@
-﻿Title: Clients
-
-----
-
-Headingtitle: Client projects

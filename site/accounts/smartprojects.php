@@ -6,5 +6,8 @@
 # docs: http://getkirby.com/panel/accounts
 
 username: smartprojects
-password: your_password
+email: smartprojects@smartprojects.com
+password: >
+  $2a$10$Z/WQJ8GfFbVI1TXVYq34n.OqPxeoyLyGW9ZS3D7QRA7f/PXPSVQSy
 language: en
+role: admin 
