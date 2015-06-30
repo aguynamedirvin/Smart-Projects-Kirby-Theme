@@ -1,6 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 # setup your account credentials here
+# password is set to 'password'
 # it's highly recommended to use md5 or sha1 encryption 
 # for your passwords. read more about encryption in the
 # docs: http://getkirby.com/panel/accounts
