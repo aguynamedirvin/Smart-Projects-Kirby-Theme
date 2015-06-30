@@ -8,7 +8,7 @@ files: false
 
 fields:
    title: 
-      label: Seitentitel
+      label: Title
       type: text
    text:
       label: Text

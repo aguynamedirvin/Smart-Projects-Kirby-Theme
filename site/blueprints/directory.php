@@ -10,10 +10,10 @@ files: false
 
 fields:
 	title: 
-    	label: Seitentitel
+    	label: Title
     	type: text
 	description:
-		label: Seitenbeschreibung
+		label: Description
 		type: text
 
 
